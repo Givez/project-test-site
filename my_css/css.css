@@ -1,0 +1,18 @@
+.my_col {
+  background-color: #F6F2F5;
+  margin-top: 0.3rem;
+  border: 1px solid green;
+}
+.my_up_title {
+  background-color: black;
+  color: white;
+  padding-right: -15px;
+  padding-left: 0px;
+  /*padding: 0px;
+  margin: 0px;*/
+}
+.my_center_text_title {
+  height:  100px;
+  line-height:  90px;
+  font-size: 2.5em;
+} /* Это нихуя не корректно, но это выравнивание по центру по диагонали и горизонтали */
