@@ -6,8 +6,8 @@
 .my_up_title {
   background-color: black;
   color: white;
-  padding-right: -15px;
-  padding-left: 0px;
+  /*padding-right: -15px;
+  padding-left: 0px;*/
   /*padding: 0px;
   margin: 0px;*/
 }
@@ -16,3 +16,8 @@
   line-height:  90px;
   font-size: 2.5em;
 } /* Это нихуя не корректно, но это выравнивание по центру по диагонали и горизонтали */
+
+.debug {
+  border: 2px solid red;
+  min-height: 20vh;
+}
